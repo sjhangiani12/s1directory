@@ -1,0 +1,735 @@
+,IPO name,Offer date,SIC,Ticker,Unit,Offer price,S1Link
+0,Stoneco Ltd,20181025,7372,STNE,1,24.0,
+1,Anaplan Inc,20181012,7376,PLAN,1,17.0,https://www.sec.gov/Archives/edgar/data/1540755/0001193125-18-274158-index.htm
+2,Elastic NV,20181005,7379,ESTC,1,36.0,https://www.sec.gov/Archives/edgar/data/1707753/0001193125-18-266861-index.htm
+3,Upwork Inc,20181003,7374,UPWK,1,15.0,https://www.sec.gov/Archives/edgar/data/1627475/0001193125-18-267594-index.htm
+4,SVMK Inc,20180926,7374,SVMK,1,12.0,https://www.sec.gov/Archives/edgar/data/1739936/0001193125-18-261892-index.htm
+5,Farfetch Ltd,20180921,7389,FTCH,1,20.0,
+6,Eventbrite Inc,20180920,7372,EB,1,23.0,https://www.sec.gov/Archives/edgar/data/1475115/0001193125-18-255960-index.htm
+7,Avalara Inc,20180615,7372,AVLR,1,24.0,https://www.sec.gov/Archives/edgar/data/1348036/0001193125-19-164571-index.htm
+8,GreenSky Inc,20180524,7389,GSKY,1,23.0,https://www.sec.gov/Archives/edgar/data/1712923/0000930413-18-001566-index.htm
+9,Pluralsight Inc,20180517,7370,PS,1,15.0,https://www.sec.gov/Archives/edgar/data/1725579/0001628280-19-002420-index.htm
+10,Dropbox Inc,20180323,7375,DBX,1,21.0,https://www.sec.gov/Archives/edgar/data/1467623/0001193125-18-055809-index.htm
+11,Bandwidth.com Inc,20171110,7375,BAND,1,20.0,https://www.sec.gov/Archives/edgar/data/1514416/0001193125-17-309873-index.htm
+12,Forescout Technologies Inc,20171027,3577,FSCT,1,22.0,https://www.sec.gov/Archives/edgar/data/1145057/0001628280-18-003319-index.htm
+13,Roku Inc,20170928,4841,ROKU,1,14.0,https://www.sec.gov/Archives/edgar/data/1428439/0001193125-17-275689-index.htm
+14,Despegar.com Corp,20170920,4724,DESP,1,26.0,
+15,Redfin Corp,20170728,6531,RDFN,1,15.0,https://www.sec.gov/Archives/edgar/data/1382821/0001628280-18-009245-index.htm
+16,Tintri Inc,20170630,7375,TNTR,1,7.0,https://www.sec.gov/Archives/edgar/data/1554875/0001193125-17-191336-index.htm
+17,Blue Apron Holdings Inc,20170629,5961,APRN,1,10.0,https://www.sec.gov/Archives/edgar/data/1701114/0001047469-17-003765-index.htm
+18,Carvana Co,20170428,5511,CVNA,1,15.0,https://www.sec.gov/Archives/edgar/data/1690820/0001193125-18-126767-index.htm
+19,Netshoes (Cayman) Ltd,20170412,5961,NETS,1,18.0,
+20,Presidio Inc,20170310,7376,PSDO,1,14.0,https://www.sec.gov/Archives/edgar/data/1631825/0001193125-17-342547-index.htm
+21,Snap Inc,20170302,7372,SNAP,1,17.0,https://www.sec.gov/Archives/edgar/data/1564408/0001193125-17-029199-index.htm
+22,Quantenna Communications Inc,20161028,7375,QTNA,1,16.0,https://www.sec.gov/Archives/edgar/data/1370702/0001370702-16-000019-index.htm
+23,Tabula Rasa HealthCare Inc,20160929,8059,TRHC,1,12.0,
+24,The Trade Desk Inc,20160921,8742,TTD,1,18.0,https://www.sec.gov/Archives/edgar/data/1671933/0001193125-17-176843-index.htm
+25,Acacia Communications Inc,20160513,3674,ACIA,1,23.0,
+26,SecureWorks Corp,20160422,7379,SCWX,1,14.0,https://www.sec.gov/Archives/edgar/data/1468666/0001193125-15-406345-index.htm
+27,BATS Global Markets Inc,20160415,6211,BATS,1,19.0,
+28,Match Group Inc,20151119,7389,MTCH,1,12.0,
+29,Mimecast Ltd,20151119,7372,MIME,1,10.0,
+30,Square Inc,20151119,7372,SQ,1,9.0,
+31,Instructure Inc,20151113,7372,INST,1,16.0,https://www.sec.gov/Archives/edgar/data/1355754/0001193125-15-341090-index.htm
+32,Rapid7 Inc,20150717,7372,RPD,1,16.0,https://www.sec.gov/Archives/edgar/data/1560327/0001193125-15-220243-index.htm
+33,Xactly Corp,20150626,7372,XTLY,1,8.0,https://www.sec.gov/Archives/edgar/data/1322554/0001193125-15-192625-index.htm
+34,TransUnion,20150625,7372,TRU,1,22.5,https://www.sec.gov/Archives/edgar/data/1552033/0001193125-15-112386-index.htm
+35,MINDBODY Inc,20150619,7374,MB,1,14.0,
+36,Shopify Inc,20150521,7372,SHOP,1,17.0,
+37,Virtu Financial Inc,20150416,6289,VIRT,1,19.0,
+38,Etsy Inc,20150416,5961,ETSY,1,16.0,https://www.sec.gov/Archives/edgar/data/1370637/0001193125-15-077045-index.htm
+39,GoDaddy Inc,20150401,7375,GDDY,1,20.0,https://www.sec.gov/Archives/edgar/data/1609711/0001609711-15-000032-index.htm
+40,Box Inc,20150123,7372,BOX,1,14.0,https://www.sec.gov/Archives/edgar/data/1372612/0001193125-14-112417-index.htm
+41,On Deck Capital Inc,20141217,6159,ONDK,1,20.0,https://www.sec.gov/Archives/edgar/data/1420811/0001193125-14-405349-index.htm
+42,Connecture Inc,20141212,7372,CNXR,1,8.0,https://www.sec.gov/Archives/edgar/data/1211759/0001193125-14-376424-index.htm
+43,LendingClub Corp,20141211,6159,LC,1,15.0,https://www.sec.gov/Archives/edgar/data/1409970/0001193125-14-323136-index.htm
+44,Cnova NV,20141120,5961,CNV,1,7.0,
+45,Atento SA,20141002,4813,ATTO,1,15.0,
+46,Wayfair Inc,20141002,5961,W,1,29.0,https://www.sec.gov/Archives/edgar/data/1702780/0001047469-18-000085-index.htm
+47,CyberArk Software Ltd,20140924,7372,CYBR,1,16.0,
+48,TrueCar Inc,20140516,7375,True,1,9.0,
+49,Zendesk Inc,20140515,7372,ZEN,1,9.0,
+50,GrubHub Inc,20140404,7375,GRUB,1,26.0,https://www.sec.gov/Archives/edgar/data/1594109/0001193125-14-319522-index.htm
+51,Aerohive Networks,20140328,3577,HIVE,1,10.0,
+52,"2U, Inc",20140328,7372,TWOU,1,13.0,
+53,Everyday Health,20140328,7389,EVDY,1,14.0,https://www.sec.gov/Archives/edgar/data/1358483/0000950123-10-004443-index.htm
+54,King Digital Entertainment plc,20140326,7372,KING,1,22.5,
+55,Borderfree Inc,20140321,7389,BRDR,1,16.0,
+56,Coupons.com Inc,20140306,7389,COUP,1,16.0,https://www.sec.gov/Archives/edgar/data/1385867/0001193125-17-107598-index.htm
+57,Autohome Inc,20131210,7374,ATHM,1,17.0,
+58,500.com Ltd,20131122,7990,WBAI,1,13.0,
+59,Zulily,20131115,5961,ZU,1,20.0,
+60,Chegg,20131113,8200,CHGG,1,12.5,
+61,Twitter,20131107,7370,TWTR,1,26.0,
+62,Wix.com Ltd,20131106,7370,WIX,1,16.5,
+63,Qunar Cayman Islands Ltd,20131101,7389,QUNR,1,15.0,
+64,58.com,20131031,7370,WUBA,1,17.0,
+65,Endurance Interntl Group Hold,20131025,7372,EIGI,1,12.0,
+66,Veeva Systems,20131016,7372,VEEV,1,20.0,https://www.sec.gov/Archives/edgar/data/1393052/0001193125-14-103273-index.htm
+67,RingCentral,20130927,7374,RNG,1,13.0,https://www.sec.gov/Archives/edgar/data/1384905/0001193125-14-068268-index.htm
+68,Rocket Fuel Inc,20130919,7319,FUEL,1,29.0,https://www.sec.gov/Archives/edgar/data/1477200/0001047469-14-000286-index.htm
+69,FireEye Inc,20130919,7372,FEYE,1,20.0,
+70,RetailMeNot Inc,20130718,7375,SALE,1,21.0,
+71,CDW Corp,20130626,5734,CDW,1,17.0,https://www.sec.gov/Archives/edgar/data/1402057/0001193125-13-122411-index.htm
+72,Gogo Inc,20130620,4899,GOGO,1,17.0,https://www.sec.gov/Archives/edgar/data/1537054/0001193125-11-351260-index.htm
+73,LightInTheBox Hldg Co Ltd,20130605,5999,LITB,1,9.5,
+74,QIWI PLC,20130502,7389,QIWI,1,17.0,
+75,Professional Diversity Network,20130305,7375,IPDN,1,8.0,
+76,YY Inc,20121120,7374,YY,1,10.5,
+77,Shutterstock Inc,20121010,7374,SSTK,1,17.0,
+78,LifeLock Inc,20121002,7372,LOCK,1,9.0,
+79,Qualys Inc,20120927,7372,QLYS,1,12.0,
+80,Trulia Inc,20120919,7374,TRLA,1,17.0,
+81,KAYAK Software Corp,20120719,7375,KYAK,1,26.0,https://www.sec.gov/Archives/edgar/data/1312928/0001193125-10-262521-index.htm
+82,ServiceNow Inc,20120628,7372,NOW,1,18.0,https://www.sec.gov/Archives/edgar/data/1373715/0001193125-12-143517-index.htm
+83,Facebook Inc,20120517,7375,FB,1,38.0,https://www.sec.gov/Archives/edgar/data/1326801/0001193125-12-034517-index.htm
+84,Infoblox Inc,20120419,7374,BLOX,1,16.0,https://www.sec.gov/Archives/edgar/data/1223862/0001193125-12-395987-index.htm
+85,Proofpoint Inc,20120419,7372,PFPT,1,13.0,https://www.sec.gov/Archives/edgar/data/1212458/0001047469-11-010082-index.htm
+86,CafePress Inc,20120328,5999,PRSS,1,19.0,https://www.sec.gov/Archives/edgar/data/1117733/0001193125-11-162782-index.htm
+87,Millennial Media Inc,20120328,7372,MM,1,13.0,https://www.sec.gov/Archives/edgar/data/1372375/0001047469-12-009489-index.htm
+88,Vantiv Inc,20120321,7389,VNTV,1,17.0,
+89,Demandware Inc,20120314,7372,DWRE,1,16.0,https://www.sec.gov/Archives/edgar/data/1301031/0001193125-11-189260-index.htm
+90,Yelp Inc,20120301,7375,YELP,1,15.0,https://www.sec.gov/Archives/edgar/data/1345016/0001193125-11-315562-index.htm
+91,Bazaarvoice Inc,20120223,7372,BV,1,12.0,https://www.sec.gov/Archives/edgar/data/1734713/0001193125-18-177903-index.htm
+92,Synacor Inc,20120209,7389,SYNC,1,5.0,https://www.sec.gov/Archives/edgar/data/1408278/0000950123-07-010751-index.htm
+93,AVG Technologies NV,20120201,7372,AVG,1,16.0,
+94,Guidewire Software Inc,20120124,7372,GWRE,1,13.0,
+95,Zynga Inc,20111215,7374,ZNGA,1,10.0,https://www.sec.gov/Archives/edgar/data/1439404/0001193125-12-113668-index.htm
+96,Angie's List Inc,20111116,7381,ANGI,1,13.0,
+97,Groupon Inc,20111103,7375,GRPN,1,20.0,
+98,Tudou Holdings Ltd,20110816,7375,TUDO,1,29.0,
+99,Carbonite Inc,20110810,7375,CARB,1,10.0,https://www.sec.gov/Archives/edgar/data/1340127/0000950123-11-049041-index.htm
+100,Zillow Inc,20110719,7375,Z,1,20.0,https://www.sec.gov/Archives/edgar/data/1334814/0001193125-11-100697-index.htm
+101,HomeAway Inc,20110628,7375,AWAY,1,27.0,https://www.sec.gov/Archives/edgar/data/1366684/0001193125-11-064128-index.htm
+102,Bankrate Inc,20110616,7389,RATE,1,15.0,
+103,Pandora Media Inc,20110614,4832,P,1,16.0,
+104,Yandex NV,20110524,7375,YNDX,1,25.0,
+105,LinkedIn Corp,20110518,7375,LNKD,1,45.0,https://www.sec.gov/Archives/edgar/data/1271024/0001193125-11-295272-index.htm
+106,FriendFinder Networks Inc,20110510,7375,FFN,1,10.0,
+107,Renren Inc,20110503,7375,RENN,1,14.0,
+108,Boingo Wireless Inc,20110503,7375,WIFI,1,13.5,https://www.sec.gov/Archives/edgar/data/1169988/0001047469-11-000150-index.htm
+109,Ellie Mae Inc,20110414,7372,ELLI,1,6.0,https://www.sec.gov/Archives/edgar/data/1122388/0001193125-10-102300-index.htm
+110,Qihoo 360 Technology Co Ltd,20110329,7375,QIHU,1,14.5,
+111,GAIN Capital Holdings Inc,20101215,6221,GCAP,1,9.0,https://www.sec.gov/Archives/edgar/data/1444363/0000950123-09-039802-index.htm
+112,Sky-mobi Ltd,20101209,7372,MOBI,1,8.0,
+113,Youku.com Inc,20101208,3663,YOKU,1,12.8,
+114,E-Commerce China Dangdang Inc,20101207,5990,DANG,1,16.0,
+115,Bitauto Holdings Ltd,20101117,7374,BITA,1,12.0,
+116,Mecox Lane Ltd,20101026,5999,MCOX,1,11.0,
+117,SouFun Holdings Ltd,20100916,7374,SFUN,1,42.5,
+118,MakeMyTrip Ltd,20100811,4724,MMYT,1,14.0,
+119,Envestnet Inc,20100728,7372,ENV,1,9.0,https://www.sec.gov/Archives/edgar/data/1337619/0001193125-10-067517-index.htm
+120,Higher One Holdings Inc,20100616,7389,ONE,1,12.0,
+121,ReachLocal Inc,20100519,7311,RLOC,1,13.0,https://www.sec.gov/Archives/edgar/data/1297336/0001193125-09-257216-index.htm
+122,Convio Inc,20100429,7372,CNVO,1,9.0,https://www.sec.gov/Archives/edgar/data/1407450/0001047469-10-000273-index.htm
+123,Financial Engines Inc,20100315,6282,FNGN,1,12.0,https://www.sec.gov/Archives/edgar/data/1430592/0000950123-09-069405-index.htm
+124,QuinStreet Inc,20100210,7389,QNST,1,15.0,https://www.sec.gov/Archives/edgar/data/1117297/0000950123-09-064388-index.htm
+125,Ancestry.com,20091105,7374,ACOM,1,13.5,https://www.sec.gov/Archives/edgar/data/1469433/0000950123-10-099104-index.htm
+126,Shanda Games Ltd,20090924,7375,GAME,1,12.5,
+127,Vitacost.com Inc,20090923,5961,VITC,1,12.0,https://www.sec.gov/Archives/edgar/data/1401688/0001193125-07-139320-index.htm
+128,OpenTable Inc,20090521,7389,OPEN,1,20.0,https://www.sec.gov/Archives/edgar/data/1125914/0001047469-09-008000-index.htm
+129,SolarWinds Inc,20090519,7372,SWI,1,12.5,https://www.sec.gov/Archives/edgar/data/1739942/0001628280-19-007037-index.htm
+130,Changyou.com Ltd,20090401,7375,CYOU,1,16.0,
+131,Rackspace Hosting Inc,20080807,7375,RAX,1,12.5,https://www.sec.gov/Archives/edgar/data/1107694/0001193125-08-091225-index.htm
+132,NetSuite Inc,20071219,7372,N,1,26.0,https://www.sec.gov/Archives/edgar/data/1117106/0001193125-07-147833-index.htm
+133,K12 Inc,20071212,8299,LRN,1,18.0,https://www.sec.gov/Archives/edgar/data/1157408/0001193125-11-335286-index.htm
+134,Internet Brands Inc,20071116,5961,INET,1,8.0,https://www.sec.gov/Archives/edgar/data/1080131/0001047469-07-005760-index.htm
+135,Virtual Radiologic Corp,20071114,3826,VRAD,1,17.0,
+136,American Public Education Inc,20071108,8211,APEI,1,20.0,https://www.sec.gov/Archives/edgar/data/1201792/0000950133-08-003787-index.htm
+137,SoundBite Communications Inc,20071101,7371,SDBT,1,8.0,https://www.sec.gov/Archives/edgar/data/1163698/0000950135-07-002256-index.htm
+138,012 Smile.Communications Ltd,20071030,4899,SMLC,1,12.0,
+139,Maxcom Telecomunicaciones SA,20071018,4813,MXT,1,17.5,https://www.sec.gov/Archives/edgar/data/1021061/0000950157-96-000231-index.htm
+140,Constant Contact Inc,20071002,7331,CTCT,1,16.0,https://www.sec.gov/Archives/edgar/data/1405277/0000950135-08-002002-index.htm
+141,Mercadolibre Inc,20070809,5999,MELI,1,18.0,https://www.sec.gov/Archives/edgar/data/1099590/0001193125-08-012485-index.htm
+142,HireRight Inc,20070807,7374,HIRE,1,15.0,https://www.sec.gov/Archives/edgar/data/1168652/0001047469-07-000947-index.htm
+143,Voltaire Ltd,20070725,7372,VOLT,1,9.0,
+144,Monotype Imaging Holdings Inc,20070724,7371,TYPE,1,12.0,https://www.sec.gov/Archives/edgar/data/1385292/0001193125-08-072594-index.htm
+145,Orbitz Worldwide Inc,20070719,7375,OWW,1,15.0,https://www.sec.gov/Archives/edgar/data/1394159/0001047469-07-003957-index.htm
+146,Dice Holdings Inc,20070717,7319,DHX,1,13.0,https://www.sec.gov/Archives/edgar/data/1393883/0001193125-07-074310-index.htm
+147,Comscore Inc,20070626,7372,SCOR,1,16.5,https://www.sec.gov/Archives/edgar/data/1158172/0001158172-18-000152-index.htm
+148,Limelight Networks Inc,20070607,7389,LLNW,1,15.0,https://www.sec.gov/Archives/edgar/data/1391127/0000950153-07-000612-index.htm
+149,TechTarget Inc,20070516,2741,TTGT,1,13.0,https://www.sec.gov/Archives/edgar/data/1293282/0001047469-07-000760-index.htm
+150,Veraz Networks Inc,20070404,7375,VRAZ,1,8.0,https://www.sec.gov/Archives/edgar/data/1366649/0000891618-06-000423-index.htm
+151,Aruba Networks Inc,20070326,7372,ARUN,1,11.0,https://www.sec.gov/Archives/edgar/data/1173752/0000891618-06-000511-index.htm
+152,US Auto Parts Networks Inc,20070208,5531,PRTS,1,10.0,https://www.sec.gov/Archives/edgar/data/1378950/0001193125-06-221797-index.htm
+153,Guidance Software,20061213,7372,GUID,1,11.5,
+154,Capella Education Co,20061109,8299,CPLA,1,20.0,https://www.sec.gov/Archives/edgar/data/1104349/0000950137-07-004202-index.htm
+155,Acme Packet Inc,20061012,7373,APKT,1,9.5,https://www.sec.gov/Archives/edgar/data/1130258/0001047469-06-007958-index.htm
+156,EHealth Inc,20061012,6411,EHTH,1,14.0,https://www.sec.gov/Archives/edgar/data/1333493/0001193125-06-087959-index.htm
+157,Shutterfly Inc,20060928,7384,SFLY,1,15.0,https://www.sec.gov/Archives/edgar/data/1125920/0000950149-06-000362-index.htm
+158,CommVault Systems Inc,20060921,7372,CVLT,1,14.5,https://www.sec.gov/Archives/edgar/data/1169561/0000950123-07-007953-index.htm
+159,Riverbed Technology Inc,20060920,3577,RVBD,1,9.75,https://www.sec.gov/Archives/edgar/data/1357326/0001193125-07-025104-index.htm
+160,WNS(Holdings)Ltd,20060725,7389,WNS,1,20.0,
+161,GMarket Inc,20060628,5961,GMKT,1,15.25,
+162,Omniture Inc,20060627,7372,OMTR,1,6.5,https://www.sec.gov/Archives/edgar/data/1357525/0000891020-07-000160-index.htm
+163,LoopNet Inc,20060606,6531,LOOP,1,12.0,https://www.sec.gov/Archives/edgar/data/1504678/0001165527-10-000980-index.htm
+164,Vonage Hldgs Corp,20060523,4813,VG,1,17.0,https://www.sec.gov/Archives/edgar/data/1272830/0001047469-06-001567-index.htm
+165,Liquidity Services Inc,20060222,7375,LQDT,1,10.0,https://www.sec.gov/Archives/edgar/data/1235468/0001104659-07-009834-index.htm
+166,NightHawk Radiology Holdings,20060208,8071,NHWK,1,16.0,https://www.sec.gov/Archives/edgar/data/1292470/0001193125-06-203965-index.htm
+167,Digital Music Group Inc,20060202,6794,DMGI,1,9.75,
+168,IncrediMail Ltd,20060130,7371,MAIL,1,7.5,
+169,Traffic.com Inc,20060125,7375,TRFC,1,12.0,https://www.sec.gov/Archives/edgar/data/1097503/0001047469-05-022277-index.htm
+170,DealerTrack Holdings,20051212,7373,TRAK,1,17.0,https://www.sec.gov/Archives/edgar/data/1333513/0000950123-05-008991-index.htm
+171,Vocus,20051206,7372,VOCS,1,9.0,https://www.sec.gov/Archives/edgar/data/1329919/0000950133-05-002680-index.htm
+172,Website Pros Inc,20051101,7372,WSPI,1,10.0,
+173,VistaPrint Limited,20050929,2759,VPRT,1,12.0,
+174,WebMD Health Corp,20050928,7375,WBMD,1,17.5,https://www.sec.gov/Archives/edgar/data/1326583/0000950123-05-006174-index.htm
+175,TRX Inc,20050927,7374,TRXI,1,9.0,https://www.sec.gov/Archives/edgar/data/1103025/0001193125-05-100977-index.htm
+176,Baidu.com Inc,20050805,7375,BIDU,1,27.0,
+177,Eschelon Telecom Inc,20050804,4813,ESCH,1,14.0,https://www.sec.gov/Archives/edgar/data/1110507/0001047469-05-013822-index.htm
+178,VeriFone Holdings Inc,20050429,3578,PAY,1,10.0,https://www.sec.gov/Archives/edgar/data/1312073/0000891618-08-000437-index.htm
+179,BofI Holding Inc,20050314,6141,BOFI,1,11.5,
+180,Odimo Inc,20050214,5944,ODMO,1,9.0,
+181,Gravity Co Ltd,20050207,7371,GRVY,1,13.5,
+182,OptionsXpress  Holdings Inc,20050126,6211,OXPS,1,16.5,https://www.sec.gov/Archives/edgar/data/1299688/0001047469-04-032143-index.htm
+183,Otelco Telecommunications Llc,20041216,4813,OTT,2,15.2,
+184,ARBINET THEXCHANGE INC,20041216,7389,ARBX,1,17.5,https://www.sec.gov/Archives/edgar/data/1136655/0001193125-04-116279-index.htm
+185,HouseValues Inc,20041209,8748,SOLD,1,15.0,https://www.sec.gov/Archives/edgar/data/1298978/0001193125-05-054368-index.htm
+186,Ninetowns,20041202,7372,NINE,1,11.0,https://www.sec.gov/Archives/edgar/data/1532286/0001193125-17-154168-index.htm
+187,InPhonic Inc,20041116,4899,INPC,1,19.0,https://www.sec.gov/Archives/edgar/data/1133324/0001193125-04-102036-index.htm
+188,MarketAxess Holdings Inc,20041104,6211,MKTX,1,11.0,https://www.sec.gov/Archives/edgar/data/1278021/0000950123-04-001583-index.htm
+189,eLong.com,20041027,7389,LONG,1,13.5,
+190,Shopping.com Ltd,20041025,7389,SHOP,1,18.0,
+191,Interchange Corp,20041018,2741,INCX,1,8.0,
+192,China Finance Online Co Ltd,20041015,7389,JRJC,1,13.0,
+193,PlanetOut Inc,20041013,7373,LGBT,1,9.0,https://www.sec.gov/Archives/edgar/data/1287258/0000950149-04-000884-index.htm
+194,Gurunet Corp,20041013,7379,GRU,1,5.0,
+195,51Job.Inc,20040928,7361,JOBS,1,14.0,
+196,Ecost Com Inc,20040827,5961,ECST,1,5.8,https://www.sec.gov/Archives/edgar/data/1287503/0001193125-04-079368-index.htm
+197,Google Inc,20040819,7375,GOOG,1,85.0,
+198,RightNow Technologies Inc,20040805,7372,RNOW,1,7.0,https://www.sec.gov/Archives/edgar/data/1111247/0001047469-04-016556-index.htm
+199,Greenfield Online Inc,20040715,8742,SRVY,1,13.0,https://www.sec.gov/Archives/edgar/data/1108906/0000950123-04-012962-index.htm
+200,Kongzhong Corp,20040708,4899,KONG,1,10.0,
+201,Motive Inc,20040624,7372,MOTV,1,10.0,
+202,Blue Nile Inc,20040519,5944,NILE,1,20.5,https://www.sec.gov/Archives/edgar/data/1091171/0000891020-04-000321-index.htm
+203,Shanda Interactive Ent Ltd,20040512,7375,SNDA,1,11.0,
+204,Marchex Inc,20040330,7375,MCHX,1,6.5,
+205,TOM Online Inc,20040305,4812,TOMO,1,15.552,https://www.sec.gov/Archives/edgar/data/1317872/0000950124-07-004837-index.htm
+206,Provide Commerce Inc.,20031217,7389,PRVD,1,15.0,https://www.sec.gov/Archives/edgar/data/1263756/0001193125-04-099033-index.htm
+207,Orbitz Inc.,20031217,4700,ORBZ,1,26.0,
+208,Open Solutions Inc,20031125,7372,OPEN,1,17.0,https://www.sec.gov/Archives/edgar/data/1125914/0001047469-09-008000-index.htm
+209,RedEnvelope Inc,20030924,5947,REDE,1,14.0,https://www.sec.gov/Archives/edgar/data/1236038/0000891618-03-003020-index.htm
+210,Ipass Inc,20030723,7375,IPAS,1,14.0,https://www.sec.gov/Archives/edgar/data/1053374/0000891618-03-000240-index.htm
+211,Plumtree Software Inc,20020604,7371,PLUM,1,8.5,https://www.sec.gov/Archives/edgar/data/1035656/0000929624-00-001327-index.htm
+212,Overstock.com,20020530,5961,OSTK,1,13.0,https://www.sec.gov/Archives/edgar/data/1130713/0001047469-10-005353-index.htm
+213,Netflix.com Inc,20020523,7841,NFLX,1,15.0,https://www.sec.gov/Archives/edgar/data/1065280/0001012870-02-001044-index.htm
+214,Paypal Inc,20020214,7374,PYPL,1,13.0,
+215,Bam Entertainment Inc,20011115,7372,BFUN,1,8.0,https://www.sec.gov/Archives/edgar/data/1132809/0000950148-01-500958-index.htm
+216,Alliance Data Systems Corp,20010607,7374,ADS,1,12.0,https://www.sec.gov/Archives/edgar/data/1101215/0000912057-00-001201-index.htm
+217,Instinet Group Inc,20010517,6211,INET,1,14.5,https://www.sec.gov/Archives/edgar/data/1080131/0001047469-07-005760-index.htm
+218,Simplex Solutions Inc,20010502,7371,SPLX,1,12.0,
+219,Loudcloud Inc,20010308,7389,LDCL,1,6.0,
+220,Riverstone Networks Inc,20010215,3576,RSTN,1,12.0,https://www.sec.gov/Archives/edgar/data/1123028/0000927016-01-500177-index.htm
+221,Go2pharmacy.com Inc,20001109,5961,GORX,1,7.875,
+222,Transmeta Corp,20001106,3674,TMTA,1,21.0,https://www.sec.gov/Archives/edgar/data/1001193/0000891618-00-004456-index.htm
+223,Datalex PLC,20001020,7371,DLEX,1,11.5,
+224,Synplicity Inc,20001012,7372,SYNP,1,8.0,https://www.sec.gov/Archives/edgar/data/1027362/0001012870-00-003941-index.htm
+225,Asia Global Crossing Ltd,20001006,4813,AGCX,1,7.0,
+226,Advanced Switching Communic,20001004,3661,ASCX,1,15.0,
+227,Docent Inc,20000929,7372,DCNT,1,11.0,
+228,University of Phoenix Online,20000927,8221,UOPX,1,14.0,
+229,AvantGo Inc,20000926,7371,AVGO,1,12.0,
+230,Cosine Communications Inc,20000925,7372,COSN,1,23.0,https://www.sec.gov/Archives/edgar/data/1060824/0000891618-00-002418-index.htm
+231,Zengine Inc,20000921,7373,ZNGN,1,13.0,
+232,INRANGE Technologies Corp,20000921,3663,INRG,1,16.0,
+233,OmniSky Corp,20000920,4812,OMNY,1,12.0,
+234,ViryaNet LTD,20000919,7372,VRYA,1,8.0,
+235,ServiceWare Technologies Inc,20000825,7372,SVCW,1,7.0,
+236,WJ Communications Inc,20000818,3663,WJCI,1,16.0,https://www.sec.gov/Archives/edgar/data/105006/0000912057-00-027231-index.htm
+237,Integrated Telecom Express Inc,20000817,3661,ITXI,1,18.0,
+238,PeoplePC Inc,20000816,7375,PEOP,1,10.0,https://www.sec.gov/Archives/edgar/data/1485964/0001193125-10-059396-index.htm
+239,O2Wireless Solutions Inc,20000816,7373,OTWO,1,12.0,
+240,SynQuest Inc,20000814,7372,SYNQ,1,7.0,
+241,Quintalinux Ltd,20000810,7375,QLNX,1,8.0,
+242,Equinix Inc,20000810,4813,EQIX,1,12.0,https://www.sec.gov/Archives/edgar/data/1101239/0001012870-00-003459-index.htm
+243,RadView Software Ltd,20000809,7372,RADV,1,10.0,
+244,Evolve Software Inc,20000809,7372,EVLV,1,9.0,
+245,Mind C.T.I. Ltd,20000808,7371,MNDO,1,10.0,
+246,America Online Latin America,20000807,7375,AOLA,1,8.0,https://www.sec.gov/Archives/edgar/data/1100395/0000950130-00-000161-index.htm
+247,ScreamingMedia Inc,20000802,7389,SCRM,1,12.0,
+248,Resonate Inc,20000802,7372,RSNT,1,21.0,
+249,iAsia Works Inc,20000802,7372,IAWK,1,13.0,
+250,Floware Wireless Systems Ltd,20000801,4813,FLRE,1,13.0,
+251,Convergent Group Corp,20000731,7371,CVGP,1,7.0,
+252,Webex Communications Inc,20000727,7379,WEBX,1,14.0,https://www.sec.gov/Archives/edgar/data/1109935/0000891618-00-001916-index.htm
+253,ValiCert Inc,20000727,7375,VLCT,1,10.0,
+254,Mainspring Inc,20000727,7389,MSPR,1,12.0,
+255,Lexent Inc,20000727,7385,LXNT,1,15.0,
+256,Corvis Corp,20000727,3661,CORV,1,36.0,
+257,Interland Inc,20000725,7389,ILND,1,12.0,
+258,Blue Martini Software Inc,20000724,7372,BLUE,1,20.0,
+259,Evoke Communications Inc,20000724,7375,EVOK,1,8.0,https://www.sec.gov/Archives/edgar/data/1403708/0001193125-13-235439-index.htm
+260,Talarian Corp,20000720,7372,TALR,1,16.0,
+261,Support.com Inc,20000718,7389,SPRT,1,14.0,https://www.sec.gov/Archives/edgar/data/1104855/0001012870-00-000859-index.htm
+262,Network Engines Inc,20000713,3572,NENG,1,17.0,https://www.sec.gov/Archives/edgar/data/1110903/0000927016-00-001221-index.htm
+263,I Many Inc,20000713,7389,IMNY,1,9.0,https://www.sec.gov/Archives/edgar/data/1104017/0000912057-01-523596-index.htm
+264,Sohu.com Inc,20000712,7379,SOHU,1,13.0,
+265,Triton Network Systems Inc,20000712,3663,TNSI,1,15.0,
+266,Sunrise Telecom Inc,20000712,3825,SRTI,1,15.0,https://www.sec.gov/Archives/edgar/data/907152/0001012870-00-001278-index.htm
+267,Divine Interventures Inc,20000711,7389,DVIN,1,9.0,
+268,Netease.com Inc,20000630,7375,NTES,1,15.5,
+269,Storagenetworks Inc,20000629,7389,STOR,1,27.0,
+270,Virage Inc,20000628,7372,VRGE,1,11.0,https://www.sec.gov/Archives/edgar/data/785081/0001193125-06-253260-index.htm
+271,CareScience Inc,20000628,7374,CARE,1,12.0,
+272,BusyBox.com Inc,20000627,3861,BUSY,1,5.0,
+273,Genuity Inc,20000627,7371,GENU,1,11.0,
+274,Click Commerce Inc,20000626,7371,CKCM,1,10.0,https://www.sec.gov/Archives/edgar/data/1107050/0000950131-00-001305-index.htm
+275,Accelerated Networks Inc,20000622,3661,ACCL,1,15.0,
+276,Echapman.com Inc,20000615,7375,ECMN,1,13.0,
+277,Rediff.com India Ltd,20000613,7375,REDF,1,12.0,
+278,Take To Auction.com Inc,20000612,7389,TTA,1,8.0,
+279,Exult Inc,20000602,8742,EXLT,1,10.0,
+280,CrossWorlds Software Inc,20000601,7372,CWLD,1,10.0,
+281,ONI Systems Corp,20000531,3661,ONIS,1,25.0,
+282,Sonus Networks Inc,20000524,7372,SONS,1,23.0,
+283,Centillium Communications Inc,20000523,3661,CTLM,1,19.0,https://www.sec.gov/Archives/edgar/data/1107194/0001012870-00-000881-index.htm
+284,coolsavings.com inc,20000519,7379,CSAV,1,7.0,https://www.sec.gov/Archives/edgar/data/1087875/0000950131-00-000221-index.htm
+285,iBeam Broadcasting Corp,20000517,4841,IBEM,1,10.0,
+286,Sequoia Software Corp,20000512,7372,SQSW,1,8.0,
+287,WHEREVER.net Holdings Corp,20000502,4813,WNET,1,9.0,
+288,Software Technologies Corp,20000427,7372,STCS,1,12.0,
+289,PEC Solutions Inc,20000419,7379,PECS,1,9.5,
+290,QS Communications AG,20000418,7375,QSCG,1,24.64,
+291,Sina.com,20000412,7375,SINA,1,17.0,
+292,Corillian Corp,20000412,7379,CORI,1,8.0,
+293,Asiacontent.com Ltd,20000411,7374,IASIA,1,14.0,
+294,HealthStream Inc,20000411,8299,HSTM,1,9.0,https://www.sec.gov/Archives/edgar/data/1095565/0000950144-99-011846-index.htm
+295,Opus360 Corp,20000407,7389,OPUS,1,10.0,
+296,Saba Software Inc,20000406,7372,SABA,1,15.0,https://www.sec.gov/Archives/edgar/data/1070380/0000891618-00-000370-index.htm
+297,LivePerson Inc,20000406,7379,LPSN,1,8.0,https://www.sec.gov/Archives/edgar/data/1102993/0000912057-00-002944-index.htm
+298,GoAmerica Inc,20000406,4812,GOAM,1,16.0,
+299,Valueclick Inc,20000330,7319,VCLK,1,19.0,
+300,ArrowPoint Communications Inc,20000330,3577,ARPT,1,34.0,
+301,Hanaro Telecom,20000329,4813,HANA,1,15.51,
+302,Telocity Delaware Inc,20000328,7375,TLCT,1,12.0,
+303,ARTISTdirect Inc,20000327,7375,ARTD,1,12.0,https://www.sec.gov/Archives/edgar/data/1095079/0000892569-00-000510-index.htm
+304,Websense Inc,20000327,7373,WBSN,1,18.0,https://www.sec.gov/Archives/edgar/data/1098277/0000936392-00-000076-index.htm
+305,ETINUUM INC,20000324,7389,ETIN,1,12.0,
+306,Partsbase.com Inc,20000322,7375,PRTS,1,13.0,https://www.sec.gov/Archives/edgar/data/1378950/0001193125-06-221797-index.htm
+307,Blaze Software Inc,20000322,7372,BLZE,1,16.0,
+308,Caldera Systems Inc,20000321,7372,CALD,1,14.0,https://www.sec.gov/Archives/edgar/data/1035748/0000891618-03-004886-index.htm
+309,Snowball.com Inc,20000320,7375,SNOW,1,11.0,
+310,Netpliance Inc,20000317,7377,NPLI,1,18.0,
+311,Integrated Information Systems,20000317,7379,IISX,1,15.0,
+312,Universal Access Inc,20000316,4813,UAXS,1,14.0,
+313,ImproveNet Inc,20000315,1521,IMPV,1,16.0,https://www.sec.gov/Archives/edgar/data/1364962/0001193125-11-167985-index.htm
+314,Loudeye Technologies Inc,20000315,7371,LOUD,1,16.0,https://www.sec.gov/Archives/edgar/data/1064648/0000950124-05-002320-index.htm
+315,Lastminute.com,20000314,4724,LMIN,1,30.02,
+316,Digitas Inc,20000313,8742,DTAS,1,24.0,https://www.sec.gov/Archives/edgar/data/1100885/0000927016-99-004015-index.htm
+317,FairMarket Inc,20000313,7389,FAIM,1,17.0,
+318,OTG Software Inc,20000310,7372,OTGS,1,19.0,
+319,Selectica Inc,20000309,7372,SLTC,1,30.0,
+320,Riverdeep Interactive Learning,20000309,7372,RVDP,1,20.0,
+321,HomeGrocer.com,20000309,7375,HOMG,1,12.0,
+322,iprint.com Inc,20000307,7375,IPRT,1,10.0,
+323,Versata Inc,20000303,7372,VATA,1,24.0,https://www.sec.gov/Archives/edgar/data/1034397/0000950149-99-002215-index.htm
+324,AsiaInfo Holdings Inc,20000302,7373,ASIA,1,24.0,https://www.sec.gov/Archives/edgar/data/1100969/0000950109-99-004557-index.htm
+325,Register.com Inc,20000302,7379,RCOM,1,24.0,https://www.sec.gov/Archives/edgar/data/1091284/0000950116-00-001718-index.htm
+326,Prime Response Inc,20000302,7372,PRME,1,18.0,
+327,Switchboard Inc,20000302,7372,SWBD,1,15.0,
+328,net.Genesis Corp,20000229,7372,NTGX,1,18.0,
+329,Onvia.com Inc,20000229,7375,ONVI,1,21.0,https://www.sec.gov/Archives/edgar/data/1100917/0001032210-99-001778-index.htm
+330,Niku Corp,20000228,7371,NIKU,1,24.0,https://www.sec.gov/Archives/edgar/data/1076641/0000891618-99-005800-index.htm
+331,Avenue A Inc,20000228,7319,AVEA,1,24.0,
+332,Hotel Reservations Network Inc,20000225,7389,ROOM,1,16.0,
+333,Digitalthink Inc,20000224,7372,DTHK,1,14.0,
+334,Carrier1 International SA,20000223,4813,CONE,1,17.483,
+335,Inforte Corp,20000217,7373,INFT,1,32.0,
+336,Gigamedia Ltd,20000217,7375,GIGM,1,27.0,
+337,Choice One Communications,20000216,4813,CWON,1,20.0,
+338,Interactive Investor Intl PLC,20000216,6282,IINV,1,24.06,
+339,VarsityBooks.com Inc,20000215,5942,VSTY,1,10.0,https://www.sec.gov/Archives/edgar/data/1069502/0000950133-99-003239-index.htm
+340,LendingTree Inc,20000215,7375,TREE,1,12.0,https://www.sec.gov/Archives/edgar/data/1434621/0001047469-08-008622-index.htm
+341,Chordiant Software Inc,20000215,7372,CHRD,1,18.0,
+342,b2bstores.com Inc,20000215,7389,BTBC,1,8.0,
+343,Sunhawk.com Corp,20000214,2741,SNHK,1,12.0,
+344,Savvis Communications Corp,20000214,7375,SVVS,1,24.0,https://www.sec.gov/Archives/edgar/data/1058444/0001005150-99-001004-index.htm
+345,VIA NET.WORKS Inc,20000211,7375,VNWI,1,21.0,https://www.sec.gov/Archives/edgar/data/1098402/0000950109-99-004246-index.htm
+346,Flag Telecom Holdings Ltd,20000211,4899,FTHL,1,24.0,
+347,Precis Smart Card Systems Inc,20000210,5045,PCIS,1,6.0,
+348,Lightspan Partnership Inc,20000210,8299,LSPN,1,12.0,
+349,Lante Corp,20000210,7379,LNTE,1,20.0,
+350,webMethods Inc,20000210,7372,WEBM,1,35.0,
+351,Pets.com Inc,20000210,5999,IPET,1,11.0,
+352,XCarenet Inc,20000209,7374,XCAR,1,18.0,
+353,Delano Technology Corp,20000209,8741,DTEC,1,18.0,
+354,Fastnet Corp,20000208,7379,FSST,1,12.0,
+355,Vicinity Corp,20000208,5999,VCNT,1,17.0,
+356,Landacorp Inc,20000208,8741,LCOR,1,10.0,
+357,Buy.com Inc,20000207,5734,BUYX,1,13.0,
+358,WorldQuest Networks Inc,20000204,4813,WQNI,1,13.0,
+359,Emerge Interactive Inc,20000204,7375,EMRG,1,15.0,https://www.sec.gov/Archives/edgar/data/1092605/0000893220-99-001214-index.htm
+360,FirePond Inc,20000204,7372,FIRE,1,22.0,https://www.sec.gov/Archives/edgar/data/1168195/0000950133-06-004558-index.htm
+361,Centra Software Inc,20000202,7371,CTRA,1,14.0,https://www.sec.gov/Archives/edgar/data/1704715/0001628280-17-005140-index.htm
+362,SkillSoft Corp,20000201,7372,SKIL,1,14.0,
+363,IMPSAT Fiber Networks Inc,20000201,4899,IMPT,1,17.0,
+364,Turnstone Systems Inc,20000201,4813,TSTN,1,29.0,https://www.sec.gov/Archives/edgar/data/1054131/0000891618-00-004514-index.htm
+365,L90 Inc,20000128,7311,LNTY,1,15.0,
+366,724 Solutions Inc,20000127,7372,SVNX,1,26.0,
+367,HealthGate Data Corp,20000125,7379,HGAT,1,11.0,
+368,Neoforma.com Inc,20000124,7389,NEOF,1,13.0,https://www.sec.gov/Archives/edgar/data/1096219/0000891618-99-004573-index.htm
+369,Ondisplay Inc,19991217,7372,ONDS,1,28.0,https://www.sec.gov/Archives/edgar/data/1646188/0001615774-19-005723-index.htm
+370,C-bridge Internet Solutions,19991217,7375,CBIS,1,16.0,
+371,Egreetings Network Inc,19991216,2771,EGRT,1,10.0,
+372,Xpedior Inc,19991215,7373,XPDR,1,19.0,
+373,GRIC Communications Inc,19991215,7375,GRIC,1,14.0,https://www.sec.gov/Archives/edgar/data/1059155/0001047469-99-036342-index.htm
+374,eCollege.com,19991214,7379,ECLG,1,11.0,https://www.sec.gov/Archives/edgar/data/1085653/0000927356-99-000886-index.htm
+375,Healthextras Inc,19991214,8999,HLEX,1,11.0,
+376,MotherNature.com Inc,19991210,7375,MTHR,1,13.0,
+377,Ebenx Inc,19991210,7389,EBNX,1,20.0,
+378,Freemarkets Inc,19991210,7389,FMKT,1,48.0,
+379,eSPEED Inc,19991210,7375,ESPD,1,22.0,
+380,Plastic Surgery Co,19991210,8741,PSU,1,8.0,
+381,MedicaLogic Inc,19991209,7372,MDLI,1,17.0,
+382,Preview Systems Inc,19991208,7371,PRVW,1,21.0,
+383,NetRatings Inc,19991208,8732,NTRT,1,17.0,https://www.sec.gov/Archives/edgar/data/1095480/0001047469-99-036712-index.htm
+384,Fogdog Sports Inc,19991208,5941,FOGD,1,11.0,
+385,Andover.net Inc,19991208,7379,ANDN,1,18.0,
+386,AGENCY.COM Ltd,19991208,7372,ACOM,1,26.0,https://www.sec.gov/Archives/edgar/data/1469433/0000950123-10-099104-index.htm
+387,E-Cruiter.com Inc,19991207,7375,ECRU,1,6.0,
+388,AirNet Communications Corp,19991207,3663,ANCC,1,14.0,
+389,Healthcentral.com Inc,19991207,7375,HCEN,1,11.0,
+390,Harris Interactive Inc,19991206,7375,HPOL,1,14.0,https://www.sec.gov/Archives/edgar/data/1094238/0001047469-99-036126-index.htm
+391,PFSweb Inc,19991202,5045,PFSW,1,17.0,https://www.sec.gov/Archives/edgar/data/1095315/0000950134-99-008416-index.htm
+392,McAfee.com Corp,19991202,7375,MCAF,1,12.0,
+393,Digimarc Corp,19991202,7372,DMRC,1,20.0,
+394,Knot Inc,19991201,7375,KNOT,1,10.0,
+395,SmarterKids com Inc,19991123,5945,SKDS,1,14.0,
+396,Getthere.Com Inc,19991122,7372,GTHR,1,16.0,
+397,Digital Impact Inc,19991122,7375,DIGI,1,15.0,https://www.sec.gov/Archives/edgar/data/1095105/0000891618-99-004199-index.htm
+398,Deltathree Com Inc,19991122,4813,DDDC,1,15.0,https://www.sec.gov/Archives/edgar/data/1086740/0000889812-99-002636-index.htm
+399,Exactis.com Inc,19991119,7375,XACT,1,14.0,
+400,Mediaplex Inc,19991119,7372,MPLX,1,12.0,https://www.sec.gov/Archives/edgar/data/1552000/0001193125-12-292127-index.htm
+401,SciQuest.com Inc,19991119,5199,SQST,1,16.0,
+402,CacheFlow Inc,19991118,7372,CFLO,1,24.0,
+403,Web Street Inc,19991117,6211,WEBS,1,11.0,
+404,Terra Networks(Telefonica SA),19991117,4813,TRRA,1,13.41,
+405,Retek Inc(HNC Software Inc),19991117,7372,RETK,1,15.0,
+406,Rainmaker Systems Inc,19991117,5961,RMKR,1,8.0,
+407,Korea Thrunet Co,19991117,7372,KOREA,1,18.0,
+408,Virata Corp,19991116,7372,VRTA,1,14.0,
+409,Quintus Corp,19991116,7371,QNTS,1,18.0,
+410,Netcreations Inc,19991112,7311,NTCR,1,13.0,
+411,SonicWALL Inc,19991110,7372,SNWL,1,14.0,https://www.sec.gov/Archives/edgar/data/1093885/0001012870-00-000921-index.htm
+412,ASD Systems Inc,19991110,7389,ASDS,1,8.0,
+413,ibasis Inc,19991110,4813,IBAS,1,16.0,
+414,Next Level Communications,19991109,3669,NXTV,1,20.0,
+415,Netzee Inc,19991109,7375,NETZ,1,14.0,
+416,Expedia Inc,19991109,4724,EXPE,1,14.0,
+417,WebVan Group Inc,19991104,7375,WBVN,1,15.0,
+418,Cobalt Networks Inc,19991104,3669,COBT,1,22.0,
+419,Tickets.com,19991103,7922,TIXX,1,12.5,https://www.sec.gov/Archives/edgar/data/1038083/0000892569-99-001628-index.htm
+420,Be Free Inc,19991103,7375,BFRE,1,12.0,
+421,Akamai Technologies Inc,19991029,7389,AKAM,1,26.0,https://www.sec.gov/Archives/edgar/data/1086222/0000950135-00-004319-index.htm
+422,Cavion Technologies Inc,19991029,7372,CAVN,1,6.5,
+423,Gaiam Inc,19991028,5961,GAIA,1,5.0,https://www.sec.gov/Archives/edgar/data/1089872/0001021408-01-502367-index.htm
+424,Viador Inc,19991026,7372,VIAD,1,9.0,
+425,InterTrust Technologies Corp,19991026,7371,ITRU,1,18.0,
+426,Sycamore Networks Inc,19991022,7372,SCMR,1,38.0,https://www.sec.gov/Archives/edgar/data/1092367/0000927016-00-000627-index.htm
+427,Navisite Inc,19991022,7375,NAVI,1,14.0,https://www.sec.gov/Archives/edgar/data/1593538/0001193125-14-151851-index.htm
+428,Zapme Corp,19991019,7379,IZAP,1,11.0,
+429,Satyam Infoway Ltd,19991018,7375,SIFY,1,18.0,
+430,Cysive Inc,19991015,7371,CYSV,1,17.0,
+431,Jacada Ltd,19991014,7372,JCDA,1,11.0,
+432,Igo Corp,19991014,4813,IGOC,1,12.0,
+433,NetRadio Corp,19991014,7375,NETR,1,11.0,
+434,Women.com Networks,19991014,7375,WOMN,1,10.0,
+435,Netcentives Inc,19991013,7389,NCNT,1,12.0,
+436,Vitaminshoppe.com Inc,19991008,5961,VSHP,1,11.0,
+437,Jupiter Communications Inc,19991008,8732,JPTR,1,21.0,
+438,E-Stamp Corp,19991008,7372,ESTM,1,17.0,
+439,QXL.com Plc,19991007,7372,QXLC,1,16.15,
+440,Interwoven Inc,19991007,7372,IWOV,1,17.0,https://www.sec.gov/Archives/edgar/data/1042431/0001012870-99-004671-index.htm
+441,Homeservices Com Inc,19991007,6531,HMSV,1,15.0,
+442,PlanetRx.com Inc,19991006,5912,PLRX,1,16.0,
+443,DSL.net Inc,19991006,4813,DSLN,1,7.5,https://www.sec.gov/Archives/edgar/data/1085866/0000927016-00-000330-index.htm
+444,Calico Commerce Inc,19991006,7375,CLIC,1,14.0,https://www.sec.gov/Archives/edgar/data/1081154/0000891618-99-003154-index.htm
+445,Breakaway Solutions Inc,19991005,7373,BWAY,1,14.0,
+446,Digital Insight Corp,19990930,7372,DGIN,1,15.0,https://www.sec.gov/Archives/edgar/data/1037275/0000944209-00-001125-index.htm
+447,ShopNow.com Inc,19990929,7374,SPNW,1,12.0,
+448,Loislaw.com Inc,19990929,7374,LOIS,1,14.0,
+449,InterNAP Network Services,19990929,7375,INAP,1,20.0,https://www.sec.gov/Archives/edgar/data/1056386/0000912057-00-002650-index.htm
+450,Telemate Net Software Inc,19990929,7372,TMNT,1,14.0,
+451,NetSolve Inc,19990928,4813,NTSL,1,13.0,
+452,FTD.COM INC,19990928,5992,EFTD,1,8.0,
+453,ITXC Corp,19990927,4813,ITXC,1,12.0,
+454,Foundry Networks Inc,19990927,3576,FDRY,1,25.0,https://www.sec.gov/Archives/edgar/data/1090071/0001012870-99-002257-index.htm
+455,Medscape Inc,19990927,7375,MSCP,1,8.0,
+456,FreeShop.com Inc,19990927,7375,FSHP,1,12.0,
+457,Keynote Systems Inc,19990924,7389,KEYN,1,14.0,https://www.sec.gov/Archives/edgar/data/1032761/0001012870-00-000122-index.htm
+458,eGain Communications,19990923,7372,EGAN,1,12.0,https://www.sec.gov/Archives/edgar/data/1066194/0001012870-99-002444-index.htm
+459,Webstakes.com Inc,19990923,7311,IWIN,1,14.0,
+460,NetZero Inc,19990923,7375,NZRO,1,16.0,
+461,Bluestone Software Inc,19990923,7372,BLSW,1,15.0,
+462,Ashford.Com Inc,19990923,5945,ASFD,1,13.0,
+463,Alteon Websystems Inc,19990923,3679,ATON,1,19.0,
+464,Yesmail.com Inc,19990922,7311,YESM,1,11.0,
+465,Cybergold Inc,19990922,7311,CGLD,1,9.0,
+466,Kana Communications Inc,19990921,7372,KANA,1,15.0,
+467,E.piphany Inc,19990921,7372,EPNY,1,16.0,
+468,Vitria Technology Inc,19990916,7372,VITR,1,16.0,https://www.sec.gov/Archives/edgar/data/1050808/0001012870-00-000211-index.htm
+469,Luminant  Worldwide Corp,19990916,7379,LUMT,1,18.0,
+470,Garden.com Inc,19990915,7371,GDEN,1,12.0,
+471,Purchasepro.com Inc,19990913,7372,PPRO,1,12.0,
+472,ImageX com Inc,19990826,2752,IMGX,1,7.0,
+473,Bamboo.com Inc,19990825,7375,BAMB,1,7.0,
+474,Lionbridge Technologies,19990820,7372,LIOX,1,10.0,https://www.sec.gov/Archives/edgar/data/1058299/0001047469-99-024807-index.htm
+475,Agile Software Corp,19990819,7372,AGIL,1,21.0,https://www.sec.gov/Archives/edgar/data/1088653/0001012870-99-004315-index.htm
+476,MyPoints.com Inc,19990819,7375,MYPT,1,8.0,
+477,LookSmart Ltd,19990819,7373,LOOK,1,12.0,
+478,HeadHunter.NET Inc,19990819,7361,HHNT,1,10.0,
+479,SilverStream Software Inc,19990817,7372,SSSW,1,16.0,
+480,Quest Software Inc,19990813,7372,QSFT,1,14.0,https://www.sec.gov/Archives/edgar/data/1088033/0000892569-00-000249-index.htm
+481,Active Software Inc,19990812,7372,ASWX,1,11.0,
+482,Red Hat Inc,19990811,7375,RHAT,1,14.0,
+483,Mortgage.com Inc,19990811,6162,MDCM,1,8.0,
+484,InterWorld Corp,19990811,7372,INTW,1,15.0,
+485,Hotjobs Com LTD,19990810,7361,HOTJ,1,8.0,
+486,US Interactive Inc,19990809,7379,USIT,1,10.0,
+487,Interactive Pictures Corp,19990805,7372,IPIX,1,18.0,https://www.sec.gov/Archives/edgar/data/1088022/0000950144-00-003313-index.htm
+488,Cobalt Group Inc,19990805,7375,CBLT,1,11.0,
+489,Internet Capital Group,19990805,7389,ICGE,1,12.0,
+490,Internet Gold-Golden Lines Ltd,19990805,7375,IGLD,1,12.0,
+491,Tumbleweed Communications Corp,19990805,7372,TMWD,1,12.0,https://www.sec.gov/Archives/edgar/data/1022509/0000912057-00-031540-index.htm
+492,Homestore.com Inc,19990804,6531,HOMS,1,20.0,
+493,Quotesmith.com Inc,19990803,7375,QUOT,1,11.0,https://www.sec.gov/Archives/edgar/data/1115128/0001193125-14-030698-index.htm
+494,Internet Initiative Japan Co,19990803,7373,IIJI,1,23.0,
+495,SplitRock Services Inc,19990802,4813,SPLT,1,10.0,
+496,1-800-Flowers.com Inc,19990802,5992,FLWS,1,21.0,https://www.sec.gov/Archives/edgar/data/1084869/0001047469-99-021779-index.htm
+497,Watchguard Technologies Inc,19990730,7372,WGRD,1,13.0,https://www.sec.gov/Archives/edgar/data/1062019/0001032210-00-000049-index.htm
+498,Net2Phone Inc,19990730,4813,NTOP,1,15.0,https://www.sec.gov/Archives/edgar/data/1086472/0000940180-99-001293-index.htm
+499,Accrue Software Inc,19990730,7372,ACRU,1,10.0,
+500,Digex Inc,19990729,4813,DIGX,1,17.0,
+501,N2H2 Inc,19990729,7375,NTWO,1,13.0,
+502,Netia Holdings SA,19990729,4813,NTIA,1,22.0,
+503,Perficient Inc,19990729,7371,PRFT,1,8.0,
+504,Drugstore.com Inc,19990728,5999,DSCM,1,18.0,https://www.sec.gov/Archives/edgar/data/1086467/0001032210-00-000167-index.htm
+505,Quokka Sports Inc,19990727,7999,QKKA,1,12.0,
+506,Liberate Technologies,19990727,7372,LBRT,1,16.0,https://www.sec.gov/Archives/edgar/data/1694028/0001193125-17-042988-index.htm
+507,Freeserve PLC,19990726,7375,FREE,1,23.67,
+508,Chemdex Corp,19990726,5169,CMDX,1,15.0,
+509,Allscripts Inc,19990723,5122,MDRX,1,16.0,
+510,VersaTel Telecom BV,19990723,4813,VRSA,1,10.51,
+511,JFAX Com Inc,19990723,7373,JFAX,1,9.5,
+512,Insweb Corp,19990722,7389,INSW,1,17.0,
+513,Tanning Technology Corp,19990722,7379,TANN,1,15.0,
+514,Voyager.Net Inc,19990721,7375,VOYN,1,15.0,
+515,MP3.COM Inc,19990721,3652,MPPP,1,28.0,
+516,Hoover's Inc,19990721,7375,HOOV,1,14.0,
+517,Engage Technologies Inc,19990720,7372,ENGA,1,15.0,https://www.sec.gov/Archives/edgar/data/1084573/0000927016-99-001854-index.htm
+518,Art Technology Group Inc,19990720,7372,ARTG,1,12.0,https://www.sec.gov/Archives/edgar/data/1086195/0000912057-99-001934-index.htm
+519,Talk City Inc,19990719,7375,TCTY,1,12.0,
+520,Paradyne Networks Inc,19990716,8711,PDYN,1,17.0,https://www.sec.gov/Archives/edgar/data/76174/0000950144-99-011098-index.htm
+521,Audible Inc,19990716,7375,ADBL,1,9.0,https://www.sec.gov/Archives/edgar/data/1077926/0000950130-99-002378-index.htm
+522,Efficient Networks Inc,19990715,3571,EFNT,1,15.0,
+523,National Info Consortium Inc,19990715,7375,EGOV,1,12.0,https://www.sec.gov/Archives/edgar/data/1065332/0000912057-00-007962-index.htm
+524,TIBCO Software Inc,19990714,7372,TIBX,1,15.0,https://www.sec.gov/Archives/edgar/data/1085280/0001012870-00-001043-index.htm
+525,CommTouch Software Inc,19990713,4899,CTCHC,1,16.0,
+526,China.com Corp,19990713,7379,CHINA,1,20.0,
+527,Liquid Audio Inc,19990709,5999,LQID,1,15.0,
+528,Musicmaker.com Inc,19990707,5961,HITS,1,14.0,
+529,Interliant Inc,19990707,7375,INIT,1,10.0,
+530,Clarent Corp,19990701,7372,CLRN,1,15.0,
+531,Primus Knowledge Solutions Inc,19990701,7372,PKSI,1,11.0,
+532,Commerce One Inc,19990701,7372,CMRC,1,21.0,
+533,Ask Jeeves Inc,19990701,7375,ASKJ,1,14.0,https://www.sec.gov/Archives/edgar/data/1054298/0000912057-00-014887-index.htm
+534,nFront Inc,19990629,7375,NFNT,1,10.0,
+535,Network Plus Corp,19990629,4813,NPLS,1,16.0,
+536,Digital Island Inc,19990629,4813,ISLD,1,10.0,
+537,E-Loan Inc,19990628,6162,EELN,1,14.0,https://www.sec.gov/Archives/edgar/data/1082337/0000891618-99-001094-index.htm
+538,Stamps.com Inc,19990625,5961,STMP,1,11.0,https://www.sec.gov/Archives/edgar/data/1082923/0000944209-99-001643-index.htm
+539,Persistence Software Inc,19990625,7371,PRSW,1,11.0,
+540,US Search Corp.com,19990625,7375,SRCH,1,9.0,
+541,Juniper Networks,19990624,3661,JNPR,1,34.0,https://www.sec.gov/Archives/edgar/data/1043604/0000891618-00-000519-index.htm
+542,Internet.com Corp,19990624,7375,INTM,1,14.0,
+543,Software.com Inc,19990623,7372,SWCM,1,15.0,
+544,CyberSource Inc,19990623,7375,CYBS,1,11.0,https://www.sec.gov/Archives/edgar/data/934280/0001012870-99-003732-index.htm
+545,TD Waterhouse Group Inc,19990623,6211,TWE,1,24.0,
+546,Quepasa.com Inc,19990623,7375,PASA,1,12.0,
+547,Netivation.com Inc,19990622,7375,NTVN,1,10.0,
+548,Ariba Inc,19990622,7372,ARBA,1,23.0,https://www.sec.gov/Archives/edgar/data/1084755/0001047469-99-016152-index.htm
+549,Ramp Networks Inc,19990622,7373,RAMP,1,11.0,
+550,Salon.com,19990622,7372,SALN,1,10.5,
+551,Student Advantage Inc,19990618,8699,STAD,1,8.0,
+552,Goto.com,19990618,7379,GOTO,1,15.0,
+553,Viant Corp,19990617,7371,VIAN,1,16.0,
+554,Streamline.com Inc,19990617,5961,SLNE,1,10.0,
+555,Mail.com Inc,19990617,7375,MAIL,1,7.0,
+556,AppNet Systems Inc,19990617,7379,APNT,1,12.0,
+557,CareInsite Inc(Synetic Inc),19990615,7372,CARI,1,18.0,
+558,GenesisIntermedia.com Inc,19990614,7311,GENI,1,8.5,
+559,onlinetradinginc.com,19990611,6211,LINE,1,7.0,https://www.sec.gov/Archives/edgar/data/1326428/0001193125-19-195030-index.htm
+560,Phone.com Inc,19990610,7372,PHCM,1,16.0,
+561,Litronic Inc,19990609,7372,LTNX,1,11.0,
+562,drkoop.com Inc,19990608,7375,KOOP,1,9.0,
+563,BackWeb Technologies Ltd,19990607,7372,BWEB,1,12.0,https://www.sec.gov/Archives/edgar/data/1082064/0000891618-00-001882-index.htm
+564,F5 Networks Inc,19990604,7372,FFIV,1,10.0,https://www.sec.gov/Archives/edgar/data/1048695/0001047469-99-035137-index.htm
+565,Wit Capital Group Inc,19990604,6211,WITC,1,9.0,
+566,Online Resources & Commun,19990604,7389,ORCC,1,14.0,
+567,Network Access Solutions Corp,19990604,4813,NASC,1,12.0,https://www.sec.gov/Archives/edgar/data/1081665/0000928385-99-003671-index.htm
+568,High Speed Access Corp,19990604,7372,HSAC,1,13.0,https://www.sec.gov/Archives/edgar/data/1764013/000119312520103101/0001193125-20-103101-index.htm
+569,iXL Enterprises Inc,19990603,7373,IIXL,1,12.0,
+570,Edgar Online Inc,19990526,7379,EDGR,1,9.5,https://www.sec.gov/Archives/edgar/data/1080224/0000950123-99-002764-index.htm
+571,ZipLink Inc,19990526,4813,ZIPL,1,14.0,
+572,barnesandnoble.com inc,19990525,7375,BNBN,1,18.0,
+573,Star Media Network Inc,19990525,7375,STRM,1,15.0,
+574,Juno Online Services Inc,19990525,7375,JWEB,1,13.0,
+575,DLJdirect(Donaldson Lufkin),19990525,6211,DIR,1,20.0,
+576,Fashionmall.com,19990521,5311,FASH,1,13.0,
+577,CAIS Internet Inc,19990520,7375,CAIS,1,19.0,
+578,@plan.inc,19990520,8732,APLN,1,14.0,
+579,OneSource Information Services,19990519,7375,ONES,1,12.0,
+580,eToys Inc,19990519,5945,ETYS,1,20.0,
+581,Redback Networks Inc,19990517,7373,RBAK,1,23.0,https://www.sec.gov/Archives/edgar/data/1081290/0000891618-99-000961-index.htm
+582,Nextcard Inc,19990514,6141,NXCD,1,20.0,
+583,Alloy Online Inc,19990514,7375,ALOY,1,15.0,https://www.sec.gov/Archives/edgar/data/1080359/0000950123-04-008095-index.htm
+584,Scient Corporation,19990513,7379,SCNT,1,20.0,
+585,Copper Mountain Networks Inc,19990512,3661,CMTN,1,21.0,https://www.sec.gov/Archives/edgar/data/1031951/0001072993-00-000159-index.htm
+586,BiznessOnline.com Inc,19990512,7375,BIZZ,1,10.0,
+587,CareerBuilder Inc,19990511,7372,CBDR,1,13.0,
+588,TheStreet.com,19990510,7375,TSCM,1,19.0,
+589,NetObjects Inc,19990507,7372,NETO,1,12.0,
+590,AdForce Inc,19990507,7311,ADFC,1,15.0,
+591,Media Metrix Inc,19990507,8732,MMXI,1,17.0,
+592,NorthPoint Communications Grp,19990505,4813,NPNT,1,24.0,
+593,COMPS.COM INC,19990505,7375,CDOT,1,15.0,
+594,Portal Software Inc,19990505,7372,PRSF,1,14.0,https://www.sec.gov/Archives/edgar/data/1080306/0001012870-99-003030-index.htm
+595,Silknet Software Inc,19990505,7375,SILK,1,15.0,https://www.sec.gov/Archives/edgar/data/1397702/0001628280-19-010142-index.htm
+596,MapQuest.com Inc,19990504,7374,MQST,1,15.0,
+597,FlyCast Communications,19990504,7375,FCST,1,25.0,
+598,Townpagesnet.com Plc,19990430,7375,TPN,1,10.0,
+599,AppliedTheory Corporation,19990430,7373,ATHY,1,16.0,
+600,Mpath Interactive Inc,19990429,7299,MPTH,1,18.0,
+601,Marimba Inc,19990429,7372,MRBA,1,20.0,
+602,topjobs.net plc,19990427,7361,TJOB,1,12.0,
+603,Razorfish Inc,19990426,7373,RAZF,1,16.0,
+604,Launch Media Inc,19990423,4899,LAUN,1,22.0,
+605,Net Perceptions Inc,19990423,7372,NETP,1,14.0,
+606,Log On America Inc,19990422,7375,LOAX,1,10.0,
+607,Internet Financial Services,19990420,6211,IFSX,1,7.0,
+608,Proxicom Inc,19990419,7373,PXCM,1,13.0,
+609,WorldGate Communications Inc,19990415,7375,WGAT,1,21.0,https://www.sec.gov/Archives/edgar/data/1030058/0001104659-06-060220-index.htm
+610,iTurf Inc,19990409,7375,TURF,1,22.0,
+611,US Internetworking Inc,19990408,7379,USIX,1,21.0,
+612,Extreme Networks,19990408,7373,EXTR,1,17.0,https://www.sec.gov/Archives/edgar/data/1078271/0001012870-99-003417-index.htm
+613,Value America Inc,19990408,5999,VUSA,1,23.0,
+614,Claimsnet.com Inc,19990406,7374,CLAI,1,8.0,https://www.sec.gov/Archives/edgar/data/1046057/0001437749-13-012799-index.htm
+615,Rhythms NetConnections,19990406,4813,RTHM,1,21.0,
+616,ZDNet,19990330,7375,ZDZ,1,19.0,
+617,Priceline.com Inc,19990329,4724,PCLN,1,16.0,
+618,Critical Path Inc,19990329,7375,CPTH,1,24.0,https://www.sec.gov/Archives/edgar/data/1060801/0001012870-99-001480-index.htm
+619,Autobytel.com Inc,19990326,7375,ABTL,1,23.0,
+620,OneMain.com Inc,19990325,7375,ONEM,1,22.0,
+621,MiningCo.com Inc,19990324,7375,MINE,1,25.0,
+622,Autoweb.com,19990322,7375,AWEB,1,14.0,
+623,Cheap Tickets Inc,19990319,4724,CTIX,1,15.0,
+624,iVillage Inc,19990318,7375,IVIL,1,24.0,https://www.sec.gov/Archives/edgar/data/1074767/0000889812-00-000194-index.htm
+625,Multex.com Inc,19990317,7374,MLTX,1,14.0,
+626,FlashNet Communications Inc,19990316,4813,FLAS,1,17.0,
+627,RoweCom Inc,19990308,5961,ROWE,1,16.0,
+628,pcOrder.com,19990225,5734,PCOR,1,21.0,
+629,Intraware Inc,19990225,7375,ITRA,1,16.0,https://www.sec.gov/Archives/edgar/data/1025134/0001047469-98-044502-index.htm
+630,WebTrends Corporation,19990219,7372,WEBT,1,13.0,
+631,Vignette Corp,19990218,7372,VIGN,1,19.0,https://www.sec.gov/Archives/edgar/data/1042185/0000930661-99-002708-index.htm
+632,Prodigy Communications Inc,19990210,7375,PRGY,1,15.0,
+633,Healtheon Corp,19990210,7374,HLTH,1,8.0,https://www.sec.gov/Archives/edgar/data/1009575/0001047469-99-001121-index.htm
+634,VerticalNet Inc,19990210,7375,VERT,1,16.0,https://www.sec.gov/Archives/edgar/data/1043946/0000950130-98-005693-index.htm
+635,VIALOG Corp,19990205,4813,VLOG,1,8.0,
+636,Modem Media. Poppe Tyson Inc,19990205,4899,MMPT,1,16.0,
+637,Tut Systems Inc,19990128,3661,TUTS,1,18.0,https://www.sec.gov/Archives/edgar/data/878436/0001012870-00-004863-index.htm
+638,Allaire Corp,19990122,7372,ALLR,1,20.0,
+639,Covad Communications Group Inc,19990121,3661,COVD,1,18.0,https://www.sec.gov/Archives/edgar/data/1043769/0001092388-01-000011-index.htm
+640,MarketWatch.com Inc,19990115,7375,MKTW,1,17.0,
+641,Artificial Life Inc,19981217,7372,ALIF,1,8.5,https://www.sec.gov/Archives/edgar/data/1070361/0000950135-98-005279-index.htm
+642,Concur Technologies Inc,19981216,7372,CNQR,1,12.5,https://www.sec.gov/Archives/edgar/data/1066026/0000891618-99-002786-index.htm
+643,InfoSpace.com,19981215,7374,INSP,1,15.0,https://www.sec.gov/Archives/edgar/data/1609550/0001047469-18-007469-index.htm
+644,Internet America Inc,19981210,7372,GEEK,1,13.0,
+645,AboveNet Communications Inc,19981210,4813,ABOV,1,13.0,
+646,Xoom.com Inc,19981209,7375,XMCM,1,14.0,
+647,uBID,19981203,5961,UBID,1,15.0,
+648,Ticketmaster Online-CitySearch,19981202,7922,TMCS,1,14.0,
+649,E-Tek Dynamics Inc,19981201,3674,ETEK,1,12.0,
+650,theglobe.com inc,19981112,7375,TGLO,1,9.0,https://www.sec.gov/Archives/edgar/data/1066684/0000895345-99-000194-index.htm
+651,EarthWeb Inc,19981110,7374,EWBX,1,14.0,
+652,eBay Inc,19980924,7389,EBAY,1,18.0,https://www.sec.gov/Archives/edgar/data/1065088/0001012870-99-000834-index.htm
+653,Global Crossing Ltd,19980813,4813,GBLC,1,19.0,
+654,24/7 Media Inc,19980813,7311,TFSM,1,14.0,https://www.sec.gov/Archives/edgar/data/1062195/0000950146-99-000051-index.htm
+655,Digital River Inc,19980811,7373,DRIV,1,8.5,https://www.sec.gov/Archives/edgar/data/1062530/0001047469-98-042234-index.htm
+656,Pilot Network Services,19980810,7373,PILT,1,14.0,
+657,GeoCities,19980810,7372,GCTY,1,17.0,
+658,Cyberian Outpost,19980731,7372,COOL,1,18.0,
+659,Northeast Optic Network Inc,19980730,4813,NOPT,1,12.0,
+660,Interactive Magic,19980722,7372,IMGK,1,8.0,
+661,Broadcast.Com Inc,19980716,4899,BCST,1,18.0,https://www.sec.gov/Archives/edgar/data/740726/0001214659-12-001583-index.htm
+662,Allegiance Telecom Inc,19980630,4813,ALGX,1,15.0,
+663,software.net Corp,19980617,7375,SWNT,1,9.0,
+664,Asymetrix Learning Systems Inc,19980612,7371,ASYM,1,11.0,
+665,NetGravity Inc,19980611,7372,NETG,1,9.0,
+666,Inktomi Corporation,19980609,7372,INKT,1,18.0,
+667,IBS Interactive Inc,19980514,7375,IBSX,1,6.0,
+668,Frontline Communications Corp,19980513,7379,FCCN,1,4.0,
+669,Verio Inc,19980511,7374,VRIO,1,23.0,
+670,Tricom SA,19980504,4813,TDR,1,13.0,
+671,First Virtual Corp,19980429,7372,FVCX,1,13.0,
+672,Broadcom Corp,19980416,3674,BRCM,1,24.0,https://www.sec.gov/Archives/edgar/data/1054374/0000892569-98-002693-index.htm
+673,ISS Group Inc,19980323,7372,ISSX,1,22.0,https://www.sec.gov/Archives/edgar/data/1053148/0000950144-99-000731-index.htm
+674,CyberShop International Inc,19980323,7375,CYSP,1,6.5,
+675,Exodus Communications Inc,19980318,4813,EXDS,1,15.0,
+676,DoubleClick Inc,19980220,7319,DCLK,1,17.0,https://www.sec.gov/Archives/edgar/data/1049480/0001047469-98-041604-index.htm
+677,Icon CMT Corp,19980212,7373,ICMT,1,10.0,
+678,Ambient Corporation,19980212,3674,ABTG,1,8.0,
+679,CDnow Inc,19980209,5735,CDNW,1,16.0,
+680,VeriSign Inc,19980129,7371,VRSN,1,14.0,https://www.sec.gov/Archives/edgar/data/1014473/0001193125-07-234074-index.htm
+681,InterVU Inc,19971119,7371,ITVU,1,9.5,
+682,SportsLine USA Inc,19971113,7375,SPLN,1,8.0,
+683,Audio Book Club Inc,19971022,5942,KLB,1,10.0,
+684,N2K Inc,19971017,7375,NTKI,1,19.0,
+685,Concord Communications Inc,19971015,3669,CCRD,1,14.0,https://www.sec.gov/Archives/edgar/data/915290/0000950135-97-003295-index.htm
+686,Logility Inc,19971007,7379,LGTY,1,14.5,https://www.sec.gov/Archives/edgar/data/1043915/0000931763-97-001324-index.htm
+687,NextLink Communications Inc,19970926,4813,NXLK,1,17.0,
+688,Concentric Network Corp,19970801,4813,CNCX,1,12.0,
+689,Ionica Group Plc,19970718,4813,IONCY,1,19.57,
+690,8x8 Inc,19970702,3674,EGHT,1,6.5,https://www.sec.gov/Archives/edgar/data/1023731/0000891618-96-002531-index.htm
+691,NetSpeak Corp,19970529,7375,NSPK,1,8.75,
+692,Amazon.com Inc,19970515,5961,AMZN,1,18.0,https://www.sec.gov/Archives/edgar/data/1018724/0000891618-97-001309-index.htm
+693,Go2Net Inc,19970423,7374,GNET,1,8.0,https://www.sec.gov/Archives/edgar/data/1344907/0000950137-07-009425-index.htm
+694,ONSALE Inc,19970417,5734,ONSL,1,6.0,
+695,e-NET Inc,19970407,7375,ETEL,1,5.0,
+696,UOL Publishing,19961126,8299,UOLP,1,13.0,
+697,Digex,19961016,4813,DIGX,1,10.125,
+698,E*Trade Group,19960816,6211,EGRP,1,10.5,
+699,OneWave,19960702,7371,OWAV,1,16.0,
+700,Getty Communications,19960702,7389,GETTY,1,10.0,
+701,C/NET,19960701,7812,CNET,1,16.0,https://www.sec.gov/Archives/edgar/data/1376321/0001144204-09-049311-index.htm
+702,Infoseek,19960611,7375,SEEK,1,12.0,
+703,Legacy Software,19960514,7372,LGCY,1,6.0,
+704,Whittman-Hart,19960503,7379,WHIT,1,16.0,
+705,Infonautics,19960429,7375,INFO,1,14.0,
+706,CompuServe,19960418,7375,CSRV,1,30.0,
+707,Yahoo!,19960412,7375,YHOO,1,13.0,
+708,Excite Inc,19960403,7375,XCIT,1,17.0,
+709,Lycos,19960401,7379,LCOS,1,16.0,
+710,MindSpring Enterprises,19960314,7389,MSPG,1,8.0,
+711,Sterling Commerce,19960308,7372,SE,1,24.0,
+712,CyberCash,19960215,7379,CYCH,1,17.0,
+713,CellularVision USA,19960208,4841,CVUS,1,15.0,
+714,DeltaPoint,19951220,7372,DTPT,1,6.0,
+715,Kinetiks.com,19951206,7373,KNET,1,6.0,
+716,ADAM Software,19951110,7371,ADAM,1,12.0,https://www.sec.gov/Archives/edgar/data/863650/0000912057-02-023299-index.htm
+717,Verity,19951006,7379,VRTY,1,12.0,
+718,Tel-Save Holdings,19950920,4813,TALK,1,13.75,
+719,Netscape Communications,19950808,7375,NSCP,1,28.0,
+720,Spyglass,19950627,7372,SPYG,1,17.0,
+721,UUNet Technologies,19950525,7375,UUNT,1,14.0,
+722,Transaction Systems,19950223,7372,TSAI,1,15.0,
+723,Infosafe Systems,19950118,5045,ISFEA,2,5.0,
+724,Netcom On-Line Communications,19941214,5045,NETC,1,13.0,
+725,Investment Technology Group,19940504,7379,ITGI,1,13.0,
+726,Navarre,19931216,5045,NAVR,1,5.625,
+727,Macromedia,19931213,7371,MACR,1,12.0,
+728,FutureMedia,19930819,7812,FMDAY,2,5.0,
+729,Micro Warehouse,19921210,5961,MWHS,1,18.0,
+730,Olicom,19921022,7372,OLCMF,1,14.0,
+731,America Online,19920319,4822,AMER,1,11.5,
+732,Valassis Communications,19920311,2752,VCI,1,17.0,
+733,Cisco Systems,19900216,3577,CSCO,1,18.0,
